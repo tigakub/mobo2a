@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//MovingAverage.hpp
+
+/home/tigakub/Documents/OpenGL/Math/MovingAverage.cpp
+MovingAverage.hpp
+/home/tigakub/Documents/OpenGL/Math/MovingAverage.hpp
+

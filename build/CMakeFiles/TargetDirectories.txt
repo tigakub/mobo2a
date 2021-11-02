@@ -1,0 +1,12 @@
+/home/tigakub/Documents/OpenGL/build/CMakeFiles/rebuild_cache.dir
+/home/tigakub/Documents/OpenGL/build/CMakeFiles/edit_cache.dir
+/home/tigakub/Documents/OpenGL/build/CMakeFiles/mobo.dir
+/home/tigakub/Documents/OpenGL/build/GUI/CMakeFiles/rebuild_cache.dir
+/home/tigakub/Documents/OpenGL/build/GUI/CMakeFiles/edit_cache.dir
+/home/tigakub/Documents/OpenGL/build/GUI/CMakeFiles/GUI.dir
+/home/tigakub/Documents/OpenGL/build/Math/CMakeFiles/rebuild_cache.dir
+/home/tigakub/Documents/OpenGL/build/Math/CMakeFiles/edit_cache.dir
+/home/tigakub/Documents/OpenGL/build/Math/CMakeFiles/Math.dir
+/home/tigakub/Documents/OpenGL/build/lodepng/CMakeFiles/rebuild_cache.dir
+/home/tigakub/Documents/OpenGL/build/lodepng/CMakeFiles/edit_cache.dir
+/home/tigakub/Documents/OpenGL/build/lodepng/CMakeFiles/lodepng.dir
